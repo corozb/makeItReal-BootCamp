@@ -10,4 +10,4 @@ Espero les guste.
 ![](https://s3.amazonaws.com/makeitreal/images/top-test-example.jpg)
 
 Version realizada:
-![](https://ibb.co/sJqpngg)
+![](https://i.ibb.co/WpfNZHH/cristianorozco.png)

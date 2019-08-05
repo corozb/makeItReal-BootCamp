@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Delius|Walter+Turncoat&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(https://source.unsplash.com/1600x900/?landscape) no-repeat center center;
+  display: cover;
+  height: 100vh;
+  box-sizing: border-box;
+  color: #fff
+}
+
+.container {
+  text-align: center;
+  padding-top: 20vh;
+}
+
+.container img {
+  height: 184px;
+  width: 178px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  transition: all .6s ease;
+}
+
+.container h1 {
+  line-height: 3em;
+  font-family: 'Delius', cursive;
+  font-size: 2.2em;
+  text-shadow: 0 0 10px #0f0f0f;
+  transition: all .5s ease-in;
+}
+
+.container p {
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 1.5em;
+  text-shadow: 0 0 10px #0f0f0f
+}

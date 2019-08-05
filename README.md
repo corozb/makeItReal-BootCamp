@@ -7,5 +7,5 @@ El diseño lo hice lo más apegado al ejercicio planteado, de igual forma le agr
 Espero les guste.
 
 Éste es el ejemplo:
-https://s3.amazonaws.com/makeitreal/images/top-test-example.jpg
+[](https://s3.amazonaws.com/makeitreal/images/top-test-example.jpg)
 

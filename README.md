@@ -2,7 +2,7 @@
 
 Es la elaboración de una página donde se ve tu foto, nombre y lugar de residencia. Es un ejercicio para aplicar al programa Top de [**MakeitReal.camp**](https://makeitreal.camp/) y empezar el entrenamiento con su programa TOP. 
 
-El diseño lo hice lo más apegado al ejercicio planteado, de igual forma le agregué algo de **animacion web** y un **favicon** para que no fuera tan simple el diseño.
+El diseño lo hice lo más apegado al ejercicio planteado, de igual forma le agregué algo de **animacion web**, un **favicon** y un background que cambia cada vez que se refresca la wev.
 
 Espero les guste.
 
